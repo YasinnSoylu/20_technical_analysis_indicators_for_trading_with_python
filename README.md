@@ -1,0 +1,1 @@
+# 20_technical_analysis_indicators_for_trading_with_python
